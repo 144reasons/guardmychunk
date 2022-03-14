@@ -1,0 +1,24 @@
+{
+  "name": "guardmychunk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somerandomcloud/guardmychunk.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/somerandomcloud/guardmychunk/issues"
+  },
+  "homepage": "https://github.com/somerandomcloud/guardmychunk#readme",
+  "dependencies": {
+    "@joshdb/core": "^1.2.7",
+    "@joshdb/sqlite": "^1.1.9",
+    "mineflayer": "^4.1.0"
+  }
+}
